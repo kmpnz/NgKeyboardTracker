@@ -9,5 +9,5 @@ Pod::Spec.new do |spec|
   spec.requires_arc = true
   spec.license      = { :type => 'MIT', :file => 'LICENSE' }
   spec.frameworks   = 'UIKit'
-  spec.ios.deployment_target = "8.0"
+  spec.ios.deployment_target = "7.0"
 end
